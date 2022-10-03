@@ -1,7 +1,7 @@
 ﻿// Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
 
 
-int size = 3;
+int size = 5;
 int[] array = new int[size];
 int result = 0;
 void Shaurma(int[] array)
